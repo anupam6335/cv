@@ -1,5 +1,5 @@
 body{
-  background-color:#def4f0;
+  background-color:#b7fff2;
 }
 h1{
   color:#00005c;
@@ -18,4 +18,8 @@ hr{
   border-color: grey;
   border-width: 5px;
   width: 30%;
+}
+
+tableP{
+  border-style: solid 1px gray;
 }
